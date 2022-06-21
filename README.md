@@ -57,4 +57,4 @@ source devel/setup.bash
 To launch the simulation type the following command on the terminal
 ``` roslaunch kortex_gazebo spawn_kortex_robot.launch start_rviz:=false arm:=gen3_lite gripper:=gen3_lite_2f```
 
-![Launched Window] (pbvs_kinova_gazebo/pbvs.png)
+![Launched Window](pbvs_kinova_gazebo/pbvs.png)
