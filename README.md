@@ -28,7 +28,7 @@ To access the color and depth streams, you will need to clone and follow the ins
 
 # Installation-
 Robot Operating System (ROS) (middleware for robotics)
-This package has been tested under ROS Kinetic (Ubuntu 16.04) and ROS Melodic (Ubuntu 18.04). You can find the instructions to install ROS Kinetic [http://wiki.ros.org/kinetic/Installation/Ubuntu] here and ROS Melodic [http://wiki.ros.org/melodic/Installation/Ubuntu] here.
+This package has been tested under ROS Kinetic (Ubuntu 16.04) and ROS Melodic (Ubuntu 18.04). You can find the instructions to install ROS Kinetic [http://wiki.ros.org/kinetic/Installation/Ubuntu] here and ROS Melodic here.
 
 # Setup & Build 
 These are the instructions to run in a terminal to create the workspace, clone the ros_kortex repository and install the necessary ROS dependencies:
