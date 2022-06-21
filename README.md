@@ -59,7 +59,7 @@ To launch the simulation type the following command on the terminal
 After launching the simulation run the <PBVS_gazebo.py> file
 We can see now the position of the end effector is changing and reducing the error between the camera and marker.
 
-![real_pbvs](https://user-images.githubusercontent.com/58929684/174833417-9328a6d9-7e09-48c8-a5ca-141ff0c51fd6.png)![kinova](https://user-images.githubusercontent.com/58929684/174854523-25fdf771-dd6d-415c-b64b-64def00d590c.png)
+
 
 
 # control Law -
