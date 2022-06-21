@@ -60,3 +60,11 @@ After launching the simulation run the <PBVS_gazebo.py> file
 We can see now the position of the end effector is changing and reducing the error between the camera and marker.
 ![real_pbvs](https://user-images.githubusercontent.com/58929684/174833417-9328a6d9-7e09-48c8-a5ca-141ff0c51fd6.png)
 
+# control Law -
+
+![frames](https://user-images.githubusercontent.com/58929684/174852932-65321116-d6ec-41eb-bd22-e010ffd68096.png)
+
+
+![controllaw](https://user-images.githubusercontent.com/58929684/174853128-be222fdb-c0d7-4f38-99b2-447d70172f9e.png)
+
+# Results - 
