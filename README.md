@@ -27,13 +27,10 @@ To access the color and depth streams, you will need to clone and follow the ins
 
 
 # Installation-
-# Setup
 Robot Operating System (ROS) (middleware for robotics)
 This package has been tested under ROS Kinetic (Ubuntu 16.04) and ROS Melodic (Ubuntu 18.04). You can find the instructions to install ROS Kinetic [http://wiki.ros.org/kinetic/Installation/Ubuntu] here and ROS Melodic [http://wiki.ros.org/melodic/Installation/Ubuntu] here.
 
-Google Protocol Buffers is used by Kinova to define the Kortex APIs and to automatically generate ROS messages, services and C++ classes from the Kortex API .proto files. 
-The installation of Google Protocol Buffers is required by developers implementing new APIs with the robot. However, since we already provide all the necessary generated files on GitHub, this is not required for most end users of the robot.
-# Build
+# Setup & Build 
 These are the instructions to run in a terminal to create the workspace, clone the ros_kortex repository and install the necessary ROS dependencies:
 
 ```
@@ -59,4 +56,7 @@ To launch the simulation type the following command on the terminal
 
 ![Launched Window](/pbvs.png)
 
-After launching the simulation run the <pbvs.py> file
+After launching the simulation run the <PBVS_gazebo.py> file
+We can see now the position of the end effector is changing and reducing the error between the camera and marker.
+![real_pbvs](https://user-images.githubusercontent.com/58929684/174833417-9328a6d9-7e09-48c8-a5ca-141ff0c51fd6.png)
+
